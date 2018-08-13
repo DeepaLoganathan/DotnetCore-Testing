@@ -1,0 +1,11 @@
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\bin\Debug\netcoreapp2.0\DotnetCore_Sharing.deps.json
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\bin\Debug\netcoreapp2.0\DotnetCore_Sharing.runtimeconfig.json
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\bin\Debug\netcoreapp2.0\DotnetCore_Sharing.runtimeconfig.dev.json
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\bin\Debug\netcoreapp2.0\DotnetCore_Sharing.dll
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\obj\Debug\netcoreapp2.0\DotnetCore_Sharing.csprojAssemblyReference.cache
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\obj\Debug\netcoreapp2.0\DotnetCore_Sharing.csproj.CoreCompileInputs.cache
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\obj\Debug\netcoreapp2.0\DotnetCore_Sharing.AssemblyInfoInputs.cache
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\obj\Debug\netcoreapp2.0\DotnetCore_Sharing.AssemblyInfo.cs
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\bin\Debug\netcoreapp2.0\DotnetCore_Sharing.pdb
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\obj\Debug\netcoreapp2.0\DotnetCore_Sharing.dll
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore_Sharing\obj\Debug\netcoreapp2.0\DotnetCore_Sharing.pdb

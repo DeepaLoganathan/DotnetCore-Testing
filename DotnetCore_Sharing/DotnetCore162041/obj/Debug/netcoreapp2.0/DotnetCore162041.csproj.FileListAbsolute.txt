@@ -1,0 +1,8 @@
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\bin\Debug\netcoreapp2.0\DotnetCore162041.deps.json
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\bin\Debug\netcoreapp2.0\DotnetCore162041.runtimeconfig.json
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\bin\Debug\netcoreapp2.0\DotnetCore162041.runtimeconfig.dev.json
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\bin\Debug\netcoreapp2.0\DotnetCore162041.dll
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\obj\Debug\netcoreapp2.0\DotnetCore162041.csprojAssemblyReference.cache
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\obj\Debug\netcoreapp2.0\DotnetCore162041.csproj.CoreCompileInputs.cache
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\obj\Debug\netcoreapp2.0\DotnetCore162041.AssemblyInfoInputs.cache
+E:\Sample\DotnetCore_Sharing\DotnetCore_Sharing\DotnetCore162041\obj\Debug\netcoreapp2.0\DotnetCore162041.AssemblyInfo.cs
